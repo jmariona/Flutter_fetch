@@ -88,7 +88,8 @@ build/
 *.sig
 
 pkg/
-src/
+android/app/src/
+
 
 ### Flutter ###
 .flutter-plugins
